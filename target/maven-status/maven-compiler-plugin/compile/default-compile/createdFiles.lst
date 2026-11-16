@@ -1,0 +1,10 @@
+br\com\desafiogof\Ticket.class
+br\com\desafiogof\Main.class
+br\com\desafiogof\Assignment.class
+br\com\desafiogof\AbstractSupportHandler.class
+br\com\desafiogof\Category.class
+br\com\desafiogof\EquipmentHandler.class
+br\com\desafiogof\GeneralSupportHandler.class
+br\com\desafiogof\NetworkHandler.class
+br\com\desafiogof\SupportHandler.class
+br\com\desafiogof\AccessHandler.class
